@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lvlinllx8
+- 👀 I’m interested in PHP
+- Experienced PHP backend developer. 
+ - Passionate about clean code, scalability, and complex problem-solving.
+ - Open to collaboration.
